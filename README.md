@@ -1,17 +1,24 @@
 
-# Unique Integers Processing Application
+# Unique Integers Processing Application - Programming Assignment 1
+
+ # Introduction
+This README provides an overview of the solution for Programming Assignment 1 - Unique Integers. The assignment requires implementing a program to read a list of integers from an input file, generate an output file containing a list of unique integers present in the input file, and handle various input variations.
 
 This application processes input files containing lists of integers and generates output files containing unique integers in sorted order.
 
 ## How to Run the Application
+1. **Clone the repository**:
+   ```
+git clone https://github.com/nellyiya/Programming-Assignment-.git
+     ```
 
-1. **Installation**:
+3. **Installation**:
    - Ensure you have Node.js installed on your system. You can download it from [Node.js website](https://nodejs.org/).
 
-2. **Setup**:
+4. **Setup**:
    - Clone or download the repository containing the application code.
 
-3. **Installation of Dependencies**:
+5. **Installation of Dependencies**:
    - Open a terminal or command prompt.
    - Navigate to the directory containing the application code.
    - Run the following command to install dependencies:
@@ -19,16 +26,16 @@ This application processes input files containing lists of integers and generate
      npm install
      ```
 
-4. **Execution**:
+6. **Execution**:
    - After installing dependencies, run the application using the following command:
      ```
-     node uniqueInt.js
+     node processor.js
      ```
 
-5. **Sample Input Data**:
+7. **Sample Input Data**:
    - Place your input files in the `sample_inputs` directory.
 
-6. **Viewing Results**:
+8. **Viewing Results**:
    - Once the application has finished processing, you can find the output files in the `results` directory.
    - Each output file will contain a list of unique integers from the corresponding input file, sorted in increasing order.
 
