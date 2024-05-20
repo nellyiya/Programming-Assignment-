@@ -55,5 +55,3 @@ The code consists of a JavaScript class named `UniqueInt`, responsible for proce
 - The application handles various variations in the input file format, such as whitespace, empty lines, and non-integer inputs.
 
 ---
-
-Feel free to customize the README file according to your preferences and include any additional information as needed.
