@@ -15,9 +15,7 @@ This application processes input files containing lists of integers and generate
 2. **Setup**:
    - Clone or download the repository containing the application code.
      ```bash
-   git clone https://github.com/nellyiya/Asignment.git
- 
-   git clone https://github.com/nellyiya/Programming-Assignment-.git
+     git clone https://github.com/nellyiya/Programming-Assignment-.git
      ```
 3. **Installation of Dependencies**:
    - Open a terminal or command prompt.
