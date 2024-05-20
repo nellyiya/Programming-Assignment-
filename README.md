@@ -2,6 +2,7 @@
 # Unique Integers Processing Application - Programming Assignment 1
 
  # Introduction
+ 
 This README provides an overview of the solution for Programming Assignment 1 - Unique Integers. The assignment requires implementing a program to read a list of integers from an input file, generate an output file containing a list of unique integers present in the input file, and handle various input variations.
 
 This application processes input files containing lists of integers and generates output files containing unique integers in sorted order.
@@ -60,7 +61,10 @@ The code consists of a JavaScript class named `UniqueInt`, responsible for proce
 - Ensure proper organization of input and output directories as specified in the instructions.
 - The application handles various variations in the input file format, such as whitespace, empty lines, and non-integer inputs.
 
-Feel free to reach out for any queries or clarifications regarding the implementation.
+Feel free to reach out for any queries,clarifications or Contributions regarding the implementation.
+
+## AUTHOR
+Iyabikoze Nelly
 Email n.iyabikoze@alustudent.com
 
 ---
