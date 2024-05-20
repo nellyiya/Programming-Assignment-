@@ -8,9 +8,9 @@ This application processes input files containing lists of integers and generate
 
 ## How to Run the Application
 1. **Clone the repository**:
-   ```
+   ```bash
 git clone https://github.com/nellyiya/Programming-Assignment-.git
-     ```
+    
 
 3. **Installation**:
    - Ensure you have Node.js installed on your system. You can download it from [Node.js website](https://nodejs.org/).
@@ -60,5 +60,8 @@ The code consists of a JavaScript class named `UniqueInt`, responsible for proce
 
 - Ensure proper organization of input and output directories as specified in the instructions.
 - The application handles various variations in the input file format, such as whitespace, empty lines, and non-integer inputs.
+
+Feel free to reach out for any queries or clarifications regarding the implementation.
+Email n.iyabikoze@alustudent.com
 
 ---
