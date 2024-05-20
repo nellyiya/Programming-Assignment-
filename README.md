@@ -63,6 +63,7 @@ The code consists of a JavaScript class named `UniqueInt`, responsible for proce
 Feel free to reach out for any queries,clarifications or Contributions regarding the implementation.
 
 ## AUTHOR
+
 Iyabikoze Nelly
 
 Email : n.iyabikoze@alustudent.com
