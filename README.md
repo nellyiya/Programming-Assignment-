@@ -8,9 +8,9 @@ This application processes input files containing lists of integers and generate
 
 ## How to Run the Application
 1. **Clone the repository**:
- 
+   ```
    git clone https://github.com/nellyiya/Asignment.git
-
+     ```
 3. **Installation**:
    - Ensure you have Node.js installed on your system. You can download it from [Node.js website](https://nodejs.org/).
 
